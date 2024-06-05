@@ -1,0 +1,4 @@
+gudhi
+numpy
+matplotlib
+networkx
